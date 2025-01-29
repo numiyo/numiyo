@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=#000&width=435&lines=一日之计在于晨&center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=808080&width=435&lines=一日之计在于晨&center=true&size=36" alt="Typing SVG" />
   </a>
 </div>
 
